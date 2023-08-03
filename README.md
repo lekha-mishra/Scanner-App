@@ -1,4 +1,6 @@
 # Scanner-App-React-Native
+[![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
  This is a QR and BarCode Scanner app built using React Native and the React Native Camera library. The app allows users to scan QR codes and display the information stored in them.
 # Getting Started
 To get started with this project, follow these steps:
